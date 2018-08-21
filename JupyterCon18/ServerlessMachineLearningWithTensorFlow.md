@@ -58,3 +58,6 @@ datalab/training-data-analyst/courses/machine_learning/tensorflow/c_batched.ipyn
 * hyper parameter tuning
 
 tensor flow jargon: step == batch
+
+### lab 5
+datalab/training-data-analyst/courses/machine_learning/tensorflow/d_traineval.ipynb
