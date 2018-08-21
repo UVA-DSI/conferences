@@ -34,3 +34,6 @@ eg: bq.Query(<<sql-string>>).to_dataframe()
 https://www.tensorflow.org/guide/feature_columns
 take away: structure of tf estimator
 
+* input function converts data to tensors
+
+
