@@ -57,4 +57,4 @@ datalab/training-data-analyst/courses/machine_learning/tensorflow/c_batched.ipyn
 * model architecture
 * hyper parameter tuning
 
-
+tensor flow jargon: step == batch
