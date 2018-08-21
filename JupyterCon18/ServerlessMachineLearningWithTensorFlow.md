@@ -1,5 +1,7 @@
 # 2018-08-21
 
+$300 for 12 months on a free trial basis.
+
 ## computing resource qwiklabs with google cloud
 * https://googlecloud-run.qwiklab.com/home
 
@@ -14,6 +16,11 @@
 ]$ datalab create mydatalabvm
 
 ]$ select zone 3
+
+To Get Back into the system
+
+]$ gcloud config set project qwiklabs-gcp-8965620d23555094
+]$ datalab connect mydatalabvm
 
 ### lab 1: data and notebook for lab 1 - estimating NYC cab fares
 ]$ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
