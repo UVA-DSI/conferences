@@ -22,5 +22,5 @@ https://googledatalab.github.io/pydatalab/datalab.bigquery.html
 eg: bq.Query(<<sql-string>>).to_dataframe()
 
 ### lab 2
-
+]$ datalab connect mydatalabvm
 
