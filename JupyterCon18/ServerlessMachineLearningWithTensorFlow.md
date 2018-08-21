@@ -88,7 +88,8 @@ Cloud ML Engine - managed
 * let's you deploy model on the cloud to curl at to make predictions
 
 ### Lab 7 (feature engineering and hyperparameter tuning)
-*
+* tf.feature_column.categorical_column_with_vocabulary_list(...) - for onehot where you know the population
+* there is also a version with hash for when you don't know
+* tf.feature_column.crossed_column([a,b],len(a)xlen(b)
+* basically there are buch of tf.feature_columns, just pick the right one
 
-
-* 
