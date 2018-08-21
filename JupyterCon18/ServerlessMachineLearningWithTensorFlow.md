@@ -76,7 +76,7 @@ Cloud ML Engine - managed
   * if you write code with tf distribution you can specify number of nodes etc.
   
   
-### Lab 6 (to a distributed environment)
+### Lab 6 (to a distributed environment and cloud deployment of model with REST)
 * need to package code in python module (aka make it not a notebook)
   * task.py - parses command line parameters (eg batch size, learning rate)
   * model.py - contains everything else
@@ -86,3 +86,9 @@ Cloud ML Engine - managed
 * bucket: alonzi-qwiklabs-gcp-8965620d23555094
 * location: us-east1
 * let's you deploy model on the cloud to curl at to make predictions
+
+### Lab 7 (feature engineering and hyperparameter tuning)
+*
+
+
+* 
