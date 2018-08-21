@@ -36,6 +36,7 @@ datalab/training-data-analyst/courses/machine_learning/tensorflow/a_tfstart.ipyn
 
 ### lab 3
 https://www.tensorflow.org/guide/feature_columns
+
 datalab/training-data-analyst/courses/machine_learning/tensorflow/b_estimator.ipynb
 
 take away: structure of tf estimator
