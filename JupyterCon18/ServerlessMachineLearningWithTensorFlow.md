@@ -12,3 +12,6 @@
 ]$ datalab create mydatalabvm
 ]$ select zone 3
 ]$ 
+
+### data and notebook for lab 1
+]$ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
