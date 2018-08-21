@@ -103,3 +103,6 @@ Cloud ML Engine - managed
     * dense features = deep columns
   
 * datalab/training-data-analyst/courses/machine_learning/feateng/feateng.ipynb
+  * apache beam - api that treats batch and streaming in unified paradigm
+  * data flow is an engine that implements apache beam
+  * 
