@@ -31,3 +31,5 @@ eg: bq.Query(<<sql-string>>).to_dataframe()
 * def pred_input_fn() --> out = trained.predict(pred_input_fn)
 
 ### lab 3
+https://www.tensorflow.org/guide/feature_columns
+
