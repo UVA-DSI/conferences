@@ -43,4 +43,7 @@ take away: structure of tf estimator
 
 * input function converts data to tensors
 
+### lab 4
+datalab/training-data-analyst/courses/machine_learning/tensorflow/c_batched.ipynb
+
 
