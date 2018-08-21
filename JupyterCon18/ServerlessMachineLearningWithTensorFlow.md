@@ -81,4 +81,7 @@ Cloud ML Engine - managed
   * task.py - parses command line parameters (eg batch size, learning rate)
   * model.py - contains everything else
   * __init__.py
-* 
+* datalab/training-data-analyst/courses/machine_learning/cloudmle/cloudmle.ipynb
+
+* bucket: alonzi-qwiklabs-gcp-8965620d23555094
+* location: us-east1
