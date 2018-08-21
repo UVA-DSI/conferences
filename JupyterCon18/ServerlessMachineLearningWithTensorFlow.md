@@ -26,3 +26,8 @@ eg: bq.Query(<<sql-string>>).to_dataframe()
 ### lab 2
 ]$ datalab connect mydatalabvm
 
+* pick an estimator (model = tf.estimator.LinearRegressor)
+* do model.train takes def train_input_fn()
+* def pred_input_fn() --> out = trained.predict(pred_input_fn)
+
+### lab 3
