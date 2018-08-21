@@ -85,3 +85,4 @@ Cloud ML Engine - managed
 
 * bucket: alonzi-qwiklabs-gcp-8965620d23555094
 * location: us-east1
+* let's you deploy model on the cloud to curl at to make predictions
