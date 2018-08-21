@@ -96,4 +96,10 @@ Cloud ML Engine - managed
 
 * model architecture
   * wide and deep models with tensor flow
-    * feature crosses in linear model
+    * feature crosses in linear model - b/c sparse kills neural netowrk --> memorization in linear
+    * one hot layer condense into dense layer (embedding) --> generalization in deep
+  * DNNLinearCombinedClassifier
+    * linear features = wide columns
+    * dense features = deep columns
+  
+* datalab/training-data-analyst/courses/machine_learning/feateng/feateng.ipynb
