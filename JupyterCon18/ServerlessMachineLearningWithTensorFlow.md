@@ -78,6 +78,6 @@ Cloud ML Engine - managed
   
 ### Lab 6 (to a distributed environment)
 * need to package code in python module (aka make it not a notebook)
-** task.py - parses command line parameters (eg batch size, learning rate)
-** model.py - contains everything else
-** __init__.py
+  * task.py - parses command line parameters (eg batch size, learning rate)
+  * model.py - contains everything else
+  * __init__.py
