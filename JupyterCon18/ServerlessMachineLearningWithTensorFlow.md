@@ -105,4 +105,8 @@ Cloud ML Engine - managed
 * datalab/training-data-analyst/courses/machine_learning/feateng/feateng.ipynb
   * apache beam - api that treats batch and streaming in unified paradigm
   * data flow is an engine that implements apache beam
-  * 
+* didn't get to hyperparameter tuning but there is a ipynb (not a tensorflow thing)
+  * need to expose it as a command line parameter
+  * add trial id code for no over writing
+  * create a .yaml
+  * "much more intelligent than grid search", bayes optimization (there is a paper out there)
