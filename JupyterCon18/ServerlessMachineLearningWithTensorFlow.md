@@ -45,5 +45,9 @@ take away: structure of tf estimator
 
 ### lab 4
 datalab/training-data-analyst/courses/machine_learning/tensorflow/c_batched.ipynb
+* big data
+* feature engineering
+* model architecture
+* hyper parameter tuning
 
 
