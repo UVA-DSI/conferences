@@ -15,16 +15,20 @@
 
 ]$ select zone 3
 
-### data and notebook for lab 1 - estimating NYC cab fares
+### lab 1: data and notebook for lab 1 - estimating NYC cab fares
 ]$ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 
+datalab/training-data-analyst/courses/machine_learning/datasets/create_datasets.ipynb
 
 ### datalab.bigquery
 https://googledatalab.github.io/pydatalab/datalab.bigquery.html
+
 eg: bq.Query(<<sql-string>>).to_dataframe()
 
 ### lab 2
 ]$ datalab connect mydatalabvm
+
+datalab/training-data-analyst/courses/machine_learning/tensorflow/a_tfstart.ipynb
 
 * pick an estimator (model = tf.estimator.LinearRegressor)
 * do model.train takes def train_input_fn()
@@ -32,6 +36,8 @@ eg: bq.Query(<<sql-string>>).to_dataframe()
 
 ### lab 3
 https://www.tensorflow.org/guide/feature_columns
+datalab/training-data-analyst/courses/machine_learning/tensorflow/b_estimator.ipynb
+
 take away: structure of tf estimator
 
 * input function converts data to tensors
