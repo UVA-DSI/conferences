@@ -59,5 +59,12 @@ datalab/training-data-analyst/courses/machine_learning/tensorflow/c_batched.ipyn
 
 tensor flow jargon: step == batch
 
-### lab 5
+### lab 5 (TensorBoard)
 datalab/training-data-analyst/courses/machine_learning/tensorflow/d_traineval.ipynb
+
+tensorboard - way to visualize/monitor training
+
+NB: in notebook the tensorboard cell comes after the train_and_evaluate, should be before so move cell up
+NB: tensorboard only works once per notebook so to do it again you ahve to reset notebook
+
+
