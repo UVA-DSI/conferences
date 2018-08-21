@@ -8,10 +8,12 @@
 * data lab is a hosted jupyter environment hosted on google - https://cloud.google.com/datalab/
 
 ]$ datalab create my vm
+
 ]$ gcloud config set project qwiklabs-gcp-8965620d23555094
+
 ]$ datalab create mydatalabvm
+
 ]$ select zone 3
-]$ 
 
 ### data and notebook for lab 1 - estimating NYC cab fares
 ]$ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
