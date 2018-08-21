@@ -32,4 +32,5 @@ eg: bq.Query(<<sql-string>>).to_dataframe()
 
 ### lab 3
 https://www.tensorflow.org/guide/feature_columns
+take away: structure of tf estimator
 
