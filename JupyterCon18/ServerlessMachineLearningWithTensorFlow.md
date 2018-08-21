@@ -74,3 +74,10 @@ Cloud ML Engine - managed
 
 2. provide distributed environment
   * if you write code with tf distribution you can specify number of nodes etc.
+  
+  
+### Lab 6 (to a distributed environment)
+* need to package code in python module (aka make it not a notebook)
+** task.py - parses command line parameters (eg batch size, learning rate)
+** model.py - contains everything else
+** __init__.py
