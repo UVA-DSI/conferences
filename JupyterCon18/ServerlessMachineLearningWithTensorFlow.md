@@ -1,6 +1,6 @@
 # 2018-08-21
 
-##
+## computing resource qwiklabs with google cloud
 * https://googlecloud-run.qwiklab.com/home
 
 * https://googlecloud-run.qwiklab.com/classrooms/2211/labs/17778
@@ -13,5 +13,14 @@
 ]$ select zone 3
 ]$ 
 
-### data and notebook for lab 1
+### data and notebook for lab 1 - estimating NYC cab fares
 ]$ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+
+
+### datalab.bigquery
+https://googledatalab.github.io/pydatalab/datalab.bigquery.html
+eg: bq.Query(<<sql-string>>).to_dataframe()
+
+### lab 2
+
+
