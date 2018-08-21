@@ -68,3 +68,9 @@ NB: in notebook the tensorboard cell comes after the train_and_evaluate, should 
 NB: tensorboard only works once per notebook so to do it again you ahve to reset notebook
 
 
+Cloud ML Engine - managed
+
+1. code that can distribute
+
+2. provide distributed environment
+  * if you write code with tf distribution you can specify number of nodes etc.
