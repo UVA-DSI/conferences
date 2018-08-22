@@ -49,3 +49,8 @@
 * work nodes
 * master uptime - 99.5% managed by google project ( you manage the nodes project)
 
+### lab 3 - https://qwiklabs.com/focuses/557?parent=catalog
+* Provision a complete Kubernetes cluster using Kubernetes Engine.
+* Deploy and manage Docker containers using kubectl.
+* Break an application into microservices using Kubernetes' Deployments and Services.
+
