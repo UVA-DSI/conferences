@@ -53,4 +53,4 @@
 * Provision a complete Kubernetes cluster using Kubernetes Engine.
 * Deploy and manage Docker containers using kubectl.
 * Break an application into microservices using Kubernetes' Deployments and Services.
-
+* https://cloud.google.com/sdk/gcloud/
