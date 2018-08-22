@@ -43,4 +43,9 @@
 ### lab 2
 * https://www.youtube.com/watch?v=fRYEJmRMkQk&feature=youtu.be
 * to connect to outside world must expose pod as a service
-* 
+
+### GKE - google kubernetes engine
+* googel managed kubernetes master
+* work nodes
+* master uptime - 99.5% managed by google project ( you manage the nodes project)
+
