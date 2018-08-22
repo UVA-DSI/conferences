@@ -16,3 +16,6 @@
   * runtime
   * today: runtime, builds runs monitors containers
   * cgroups, namespaces - controls what containers seeq
+
+### lab 1
+* https://docs.docker.com/engine/reference/builder/#known-issues-run
