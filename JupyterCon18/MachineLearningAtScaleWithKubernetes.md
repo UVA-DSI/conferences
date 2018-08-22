@@ -19,3 +19,8 @@
 
 ### lab 1
 * https://docs.docker.com/engine/reference/builder/#known-issues-run
+* gcr: google container registry
+* Ran containers based on public images from Docker Hub.
+* Built your own container images and pushed them to Google Container Registry.
+* Learned ways to debug running containers.
+* Ran containers based on images pulled from Google Container Registry.
