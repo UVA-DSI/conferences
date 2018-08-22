@@ -43,3 +43,4 @@
 ### lab 2
 * https://www.youtube.com/watch?v=fRYEJmRMkQk&feature=youtu.be
 * to connect to outside world must expose pod as a service
+* 
