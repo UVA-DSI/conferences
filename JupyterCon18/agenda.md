@@ -4,3 +4,4 @@
 
 # Day 2 (8/22)
 * [Machine learning at scale with Kubernetes](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/69752)
+* [notes](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/MachineLearningAtScaleWithKubernetes.md)
