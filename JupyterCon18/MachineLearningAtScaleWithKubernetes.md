@@ -17,7 +17,7 @@
   * today: runtime, builds runs monitors containers
   * cgroups, namespaces - controls what containers seeq
 
-### lab 1
+### lab 1 - https://qwiklabs.com/focuses/1029?parent=catalog - Introduction to Docker
 * https://docs.docker.com/engine/reference/builder/#known-issues-run
 * gcr: google container registry
 * Ran containers based on public images from Docker Hub.
@@ -40,7 +40,8 @@
 * Namespaces - 
 * kubectl - commands you use the most, cli
 
-### lab 2
+### lab 2 - https://qwiklabs.com/focuses/564?parent=catalog - Hello Node Kubernetes
+
 * https://www.youtube.com/watch?v=fRYEJmRMkQk&feature=youtu.be
 * to connect to outside world must expose pod as a service
 
@@ -49,7 +50,7 @@
 * work nodes
 * master uptime - 99.5% managed by google project ( you manage the nodes project)
 
-### lab 3 - https://qwiklabs.com/focuses/557?parent=catalog
+### lab 3 - https://qwiklabs.com/focuses/557?parent=catalog - Orchestrating the Cloud with Kubernetes
 * Provision a complete Kubernetes cluster using Kubernetes Engine.
 * Deploy and manage Docker containers using kubectl.
 * Break an application into microservices using Kubernetes' Deployments and Services.
@@ -81,3 +82,4 @@
   * Argo CD uses GitOps pattern
   * Seldon , 
   
+### lab 4 - https://qwiklabs.com/focuses/960?parent=catalog - Introduction to Kubeflow on Google Kubernetes Engine
