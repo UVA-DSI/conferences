@@ -58,6 +58,7 @@
 ## afternoon
 
 ### running tensorflow on kubernetes --> kubeflow (launch 2/2018)
+* https://github.com/kubeflow/kubeflow
 * composable, portable, scalable
 * before tensor processing unit (TPU), it ws jelly doughnut and jellyfish
 * kubeflow
