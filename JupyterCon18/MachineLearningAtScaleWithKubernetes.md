@@ -24,3 +24,22 @@
 * Built your own container images and pushed them to Google Container Registry.
 * Learned ways to debug running containers.
 * Ran containers based on images pulled from Google Container Registry.
+
+### kubernetes
+* "kuberentes is two things to me: abstraction over infrastructure and set of declarative APIs."
+  * tell what you need not what to do and let kubernetes figure out what to do
+* built by googlers in 2014, goes by K8s
+* master and worker nodes: each is a vm
+* worker nodes are livestock not pets
+* The Pod
+  * the atom
+  * one or more containers with shared networking and storage
+* Deployment - long running jobs (like a web site)
+* Drop (run one time) - chron job
+* Services - stable endpoint for pods
+* Namespaces - 
+* kubectl - commands you use the most, cli
+
+### lab 2
+* https://www.youtube.com/watch?v=fRYEJmRMkQk&feature=youtu.be
+* to connect to outside world must expose pod as a service
