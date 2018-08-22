@@ -54,3 +54,29 @@
 * Deploy and manage Docker containers using kubectl.
 * Break an application into microservices using Kubernetes' Deployments and Services.
 * https://cloud.google.com/sdk/gcloud/
+
+## afternoon
+
+### running tensorflow on kubernetes --> kubeflow (launch 2/2018)
+* composable, portable, scalable
+* before tensor processing unit (TPU), it ws jelly doughnut and jellyfish
+* kubeflow
+  * jupyter notebook (or hub)
+  * multi-architecture, distributed training
+  * model serving
+  * ??
+  * ??
+  * trainer,build model,model validation,training at scale, serving
+* tech --> finance --> regular dudes
+* open
+* components
+  * bootstrap container
+  * ambassador service
+  * cloud identity aware proxy
+  * jupyter service and hub
+  * tensorflow transform - library for preporcessing data with tensorflow
+  * TFMA - tensorflow model analysis (library)
+  * TF Job - custom resource, easy to run distributed or non- distributed TensorFlow jobs
+  * Argo CD uses GitOps pattern
+  * Seldon , 
+  
