@@ -84,4 +84,4 @@
   
 ### lab 4 - https://qwiklabs.com/focuses/960?parent=catalog - Introduction to Kubeflow on Google Kubernetes Engine
 
-### lab 5 - - 
+### lab 5 - - kubeflow end to end lab
