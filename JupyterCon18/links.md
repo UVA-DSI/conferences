@@ -5,3 +5,4 @@
 * [jupyterhub](https://github.com/jupyterhub)
 * [jupyterlab](https://github.com/jupyterlab)
 * [yaml](https://en.wikipedia.org/wiki/YAML)
+* [zero to jupyterhub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
