@@ -18,3 +18,4 @@
 * Parallel 1 [SWAN from CERN](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/SWAN:CERN'sJupyter-basedinteractivedataanalysisservice.md)
 * Parallel 2 [Astronomy](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/%22Ifthedatawillnotcometotheastronomer.%20.%20.%22:JupyterLabandaseachangeinastronomicalanalysis.md)
 * Paralle 3 [interactive vis](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/VisualizingmachinelearningmodelsintheJupyterNotebook(sponsoredbyBloombergLP).md)
+* Parallel 4 [Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/panel/ThefutureofJupyterineducation.md)
