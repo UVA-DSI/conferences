@@ -12,6 +12,6 @@
   * [Jupyter Trends](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/JupyterTrendsIn2018.md)
   * [Notebooks are empowering](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Sustainingwonder:Jupyterandtheknowledgecommons.md)
   * [--](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Jupyterintheenterprise.md)
-  * []()
+  * [twitter bots](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Thereporter%E2%80%99snotebook.md)
   
   
