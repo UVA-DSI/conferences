@@ -2,3 +2,7 @@
 
 ## Will Farr
 
+"black holes are made of gravity"
+
+says heavy elements come from neutron star mergers not supernovae
+
