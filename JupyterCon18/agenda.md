@@ -19,4 +19,4 @@
 * Parallel 2 [Astronomy](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/%22Ifthedatawillnotcometotheastronomer.%20.%20.%22:JupyterLabandaseachangeinastronomicalanalysis.md)
 * Paralle 3 [interactive vis](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/VisualizingmachinelearningmodelsintheJupyterNotebook(sponsoredbyBloombergLP).md)
 * Parallel 4 [Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/panel/ThefutureofJupyterineducation.md)
-* Paralle 5 [More Education]()
+* Paralle 5 [More Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Learnbydoing:Usingdata-drivenstoriesandvisualizationsinthe(highschoolandcollege)classroom.md)
