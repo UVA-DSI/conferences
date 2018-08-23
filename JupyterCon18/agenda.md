@@ -9,4 +9,5 @@
 # Day 3 (8/23)
 * Keynotes
   * [LIGO](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/Allthecoolkidsaredoingit%3Bmaybeweshouldtoo%3FJupyter%2Cgravitationalwaves%2CandtheLIGOandVirgoScientificCollaborations.md)
+  * [Jupyter Trends](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/JupyterTrendsIn2018.md)
   * []()
