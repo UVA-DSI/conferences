@@ -7,5 +7,6 @@
 * [notes](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/MachineLearningAtScaleWithKubernetes.md)
 
 # Day 3 (8/23)
-* [LIGO](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/Allthecoolkidsaredoingit%3Bmaybeweshouldtoo%3FJupyter%2Cgravitationalwaves%2CandtheLIGOandVirgoScientificCollaborations.md)
-* []()
+* Keynotes
+  * [LIGO](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/Allthecoolkidsaredoingit%3Bmaybeweshouldtoo%3FJupyter%2Cgravitationalwaves%2CandtheLIGOandVirgoScientificCollaborations.md)
+  * []()
