@@ -22,4 +22,16 @@ SWAN
 
 * WLCG - worldwide LHC computing Grid (storage and processing power)
 
-[web](cern.ch/swan)
+[web](http://swan.web.cern.ch/)
+
+200 daily users
+
+* coming up
+  * move to jupyter lab
+  * base new architecture on kubernetes
+  * get into GPUs to facilite hep usage of ML
+  
+* links
+  * http://cern.ch/swan
+  * https://github.com/swan-cern
+  * https://cern.ch/sciencebox
