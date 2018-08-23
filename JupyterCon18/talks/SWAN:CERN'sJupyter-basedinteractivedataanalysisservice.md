@@ -2,7 +2,7 @@
 
 ## Diogo Castro (CERN)
 
-1PB per second from detectors --> filtered and stored in EOS
+1PB per second from detectors --> filtered and stored in [EOS](http://information-technology.web.cern.ch/services/eos-service)
 
 first jupyter c++ kernel came from root C++
 
