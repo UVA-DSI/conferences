@@ -2,3 +2,9 @@
 
 ## Carol Willing
 
+she made fun of dungeons and dragons
+
+empowering, simple
+
+'close to 3M notebooks in the wild'
+
