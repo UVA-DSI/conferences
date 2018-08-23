@@ -2,3 +2,7 @@
 
 ## Luciano Resende
 
+IBM Watson Studio
+
+Jupyter Enterprise Gateway
+
