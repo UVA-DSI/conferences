@@ -17,3 +17,7 @@ SWAN
   * Storage - CERNBox, EOS
     * EOS - disk storage system
     * Software - CVMFS - read only software software distribution on world wide grid, lazy fetching
+* project creation and sharing framework
+* it's got spark
+
+* WLCG - worldwide LHC computing Grid (storage and processing power)
