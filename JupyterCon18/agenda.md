@@ -15,3 +15,4 @@
   * [twitter bots](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Thereporter%E2%80%99snotebook.md)
   * [two sigma](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Whycontributetoopensource%3F.md)
   * [aws](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/KeynotebyDanRomualdMbanga.md)
+* Parallel 1 [SWAN from CERN](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/SWAN:CERN'sJupyter-basedinteractivedataanalysisservice.md)
