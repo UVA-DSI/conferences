@@ -6,3 +6,7 @@
 * [jupyterlab](https://github.com/jupyterlab)
 * [yaml](https://en.wikipedia.org/wiki/YAML)
 * [zero to jupyterhub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
+
+### observations
+1. no one talks about IBM cloud
+2. it is a 100% github situtation
