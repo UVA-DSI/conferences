@@ -2,4 +2,4 @@
 
 ## Douglas Blank (Bryn Mawr College)
 
-### goo.gl/NNdG9i
+### [slides](goo.gl/NNdG9i)
