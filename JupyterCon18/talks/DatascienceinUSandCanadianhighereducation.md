@@ -37,6 +37,6 @@ jupyter born at berkeley
 * grants from government
 
 
-### Reccomendations
+### Recomendations
 Littlest Jupyter Hub - no need for kubernetes - good up to 50 students
 
