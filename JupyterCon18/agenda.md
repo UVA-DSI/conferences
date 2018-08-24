@@ -30,3 +30,5 @@
   * [Medical Application](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Diseasepredictionusingtheworld'slargestclinicallabdataset(sponsoredbyAmazonWebServices).md)
   * [cypher](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Datascienceasacatalystforscientificdiscovery.md)
   * [berkeley](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Seachange:WhathappenswhenJupyterbecomespervasiveatauniversity%3F.md)
+  * Coffee break meeting on integrating storage and computation
+  * [How to teach with Jupyter](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/DatascienceinUSandCanadianhighereducation.md)
