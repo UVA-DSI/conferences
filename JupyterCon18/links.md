@@ -10,3 +10,4 @@
 ### observations
 1. no one talks about IBM cloud
 2. it is a 100% github situtation
+3. just don't have more than 4-5 cells and 4-5 lines per cell
