@@ -28,3 +28,5 @@
   * [Netflix Scaling](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Beyondinteractive:calingimpactwithnotebooksatNetflix.md)
   * [Intersection of DS and DE](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Jupyternotebooksandtheintersectionofdatascienceanddataengineering.md)
   * [Medical Application](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Diseasepredictionusingtheworld'slargestclinicallabdataset(sponsoredbyAmazonWebServices).md)
+  * [cypher](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Datascienceasacatalystforscientificdiscovery.md)
+  * [](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Seachange:WhathappenswhenJupyterbecomespervasiveatauniversity%3F.md)
