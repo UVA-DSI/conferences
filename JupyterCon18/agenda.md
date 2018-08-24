@@ -32,3 +32,4 @@
   * [berkeley](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Seachange:WhathappenswhenJupyterbecomespervasiveatauniversity%3F.md)
   * Coffee break meeting on integrating storage and computation
   * [How to teach with Jupyter](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/DatascienceinUSandCanadianhighereducation.md)
+  * [I don't like notebooks.](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Idon'tlikenotebooks.md)
