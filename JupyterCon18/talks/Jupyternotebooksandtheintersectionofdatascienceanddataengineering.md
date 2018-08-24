@@ -8,3 +8,6 @@
 * monica rogati - hierarchy of needs for data scientists - [medium post "the ai hierarchy of needs"](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 * he says the DE are the bottom of the pyramid and the DS is the top
 
+* integrates with task management system like jira
+* inorperate a data source browser sql style
+* jenkins/travisCI
