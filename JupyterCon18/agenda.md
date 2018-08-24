@@ -34,3 +34,4 @@
 
 * Parallel Session 1 [How to teach with Jupyter](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/DatascienceinUSandCanadianhighereducation.md)
 * Parallel Session 2 [I don't like notebooks.](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Idon'tlikenotebooks.md)
+* Parallel Session 3 [Jupyter graduates](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Jupytergraduates.md)
