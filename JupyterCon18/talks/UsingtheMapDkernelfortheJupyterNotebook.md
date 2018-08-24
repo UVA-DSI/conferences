@@ -13,3 +13,9 @@
 * Commercial product: Immerse
 * github.com/mapd/pymapd
 * MapD kernel for Jupyter
+
+### examples
+* DBI-compliant
+* ibis: allows you to use pandas like code but take advantage of MapD acceleration
+  * but really behind the scene it just turns your pandas into sql code
+* jupyter specific functionality - %%mapd and then you're off to the races
