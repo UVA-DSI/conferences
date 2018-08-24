@@ -25,4 +25,4 @@
 * Keynotes
   * [Democratizing data](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Democratizingdata.md)
   * [The future of data-driven discovery in the cloud](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Thefutureofdata-drivendiscoveryinthecloud.md)
-  * []()
+  * [Netflix Scaling](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Beyondinteractive:calingimpactwithnotebooksatNetflix.md)
