@@ -17,7 +17,7 @@
   * [aws](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/KeynotebyDanRomualdMbanga.md)
 * Parallel 1 [SWAN from CERN](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/SWAN:CERN'sJupyter-basedinteractivedataanalysisservice.md)
 * Parallel 2 [Astronomy](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/%22Ifthedatawillnotcometotheastronomer.%20.%20.%22:JupyterLabandaseachangeinastronomicalanalysis.md)
-* Paralle 3 [interactive vis](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/VisualizingmachinelearningmodelsintheJupyterNotebook(sponsoredbyBloombergLP).md)
+* Parallel 3 [interactive vis](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/VisualizingmachinelearningmodelsintheJupyterNotebook(sponsoredbyBloombergLP).md)
 * Parallel 4 [Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/panel/ThefutureofJupyterineducation.md)
 * Paralle 5 [More Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Learnbydoing:Usingdata-drivenstoriesandvisualizationsinthe(highschoolandcollege)classroom.md)
 
@@ -35,3 +35,4 @@
 * Parallel Session 1 [How to teach with Jupyter](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/DatascienceinUSandCanadianhighereducation.md)
 * Parallel Session 2 [I don't like notebooks.](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Idon'tlikenotebooks.md)
 * Parallel Session 3 [Jupyter graduates](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Jupytergraduates.md)
+* Parallel Session 4 [Using the MapD kernel for the Jupyter Notebook](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/UsingtheMapDkernelfortheJupyterNotebook.md)
