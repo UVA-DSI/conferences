@@ -20,3 +20,9 @@
 * Paralle 3 [interactive vis](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/VisualizingmachinelearningmodelsintheJupyterNotebook(sponsoredbyBloombergLP).md)
 * Parallel 4 [Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/panel/ThefutureofJupyterineducation.md)
 * Paralle 5 [More Education](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Learnbydoing:Usingdata-drivenstoriesandvisualizationsinthe(highschoolandcollege)classroom.md)
+
+# Day 4 (8/24)
+* Keynotes
+  * [Democratizing data](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Democratizingdata.md)
+  * [The future of data-driven discovery in the cloud](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/talks/Thefutureofdata-drivendiscoveryinthecloud.md)
+  * []()
