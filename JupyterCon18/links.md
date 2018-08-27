@@ -7,6 +7,7 @@
 * [yaml](https://en.wikipedia.org/wiki/YAML)
 * [zero to jupyterhub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * [aws sage maker](https://aws.amazon.com/sagemaker/?sc_channel=PS&sc_campaign=pac_ps_q4&sc_publisher=google&sc_medium=sagemaker_b_pac_search&sc_content=machine_learning_framework_e&sc_detail=amazon%20sagemaker&sc_category=sagemaker&sc_segment=webp&sc_matchtype=e&sc_country=US&sc_geo=namer&sc_outcome=pac&s_kwcid=AL!4422!3!245225393478!e!!g!!amazon%20sagemaker&ef_id=W1e9YAAAAC4hU8-b:20180824181511:s)
+* [Blog Post](http://willcrichton.net/notes/lessons-from-jupytercon/)
 
 ### observations
 1. no one talks about IBM cloud
