@@ -40,9 +40,7 @@
   * fully managed machine learning service
   * integrated Jupyter authoring notebook instance
   * Training and hosting are billed by minutes of usage
-  
-education room
+* Lets you stand up jupyter notebooks on AWS, preloaded with ML tools like TensorFlow, also spark
+* Machine Learning capabilities for training and deployment (includes hyperparameter tuning)
 
-sage maker
-
-jupyter / hub / lab
+### They had a room dedicated to Education
