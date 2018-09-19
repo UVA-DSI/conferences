@@ -17,7 +17,7 @@
   * supports many languages: big 3 are Julia, Python, and R
 * Jupyter Notebook
   * web-based interactive computational environment
-  * this is where you code
+  * this is where you code [example](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/rkernel.png)
 * Jupyter Hub
   * multi-user server for Jupyter Notebooks
   * used in [data8](http://data8.org/) class at berkeley (for example)
