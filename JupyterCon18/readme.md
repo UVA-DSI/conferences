@@ -8,3 +8,30 @@
 * [Slides from most presentations](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/proceedings)
 
 ### [What I attended](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/agenda.md)
+
+### Terminology
+* Project Jupyter - https://en.wikipedia.org/wiki/Project_Jupyter
+  * non-profit organization
+  * "develop open-source software, open-standards, and services for interactive computing across dozens of programming languages."
+  * Spun-off from IPython in 2014 by Fernando Pérez,
+  * supports many languages: big 3 are Julia, Python, and R
+* Jupyter Notebook
+  * web-based interactive computational environment
+  * this is where you code
+* Jupyter Hub
+  * multi-user server for Jupyter Notebooks
+  * used in [data8](http://data8.org/) class at berkeley (for example)
+* JupyterLab
+  * next-generation user interface for Project Jupyter
+  * The first stable release was announced on February 20, 2018.
+
+
+
+
+abernathy
+
+education room
+
+sage maker
+
+jupyter / hub / lab
