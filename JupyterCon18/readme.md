@@ -26,7 +26,9 @@
   * The first stable release was announced on February 20, 2018.
 
 
-
+### The Open Data Lab
+* Here at UVA we have established the Open Data Lab
+* Ryan Abernathy (Columbia) [gave a keynote talk](https://www.youtube.com/watch?v=7kDYfUe0Zhw&index=12&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae&t=0s) about a lot of the same principles
 
 abernathy
 
