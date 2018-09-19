@@ -31,9 +31,9 @@
 * Ryan Abernathy (Columbia) [gave a keynote talk](https://www.youtube.com/watch?v=7kDYfUe0Zhw&index=12&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae&t=0s) about a lot of the same principles
 * He also [gave a great talk](https://cdn.oreillystatic.com/en/assets/1/event/285/Pangeo_%20Big%20data%20climate%20science%20in%20the%20cloud%20Presentation.pdf) about PANGEO a similar effort for environmental science data.
 * Therein he outlines the past/present/future of computing and I think it is a nice description
-  *  
-  *
-  *
+  *  [the past](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/past.png)
+  *  [the present](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/present.png)
+  *  [the future](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/future.png)
 
 
 abernathy
