@@ -1,3 +1,9 @@
+Title: JupyterCon18 - the project jupyter conference
+Abstract: In this repo I document my experience at the JupyterCon18 conference. This readme file serves as an outline for a talk on that experience. First I will set the tone for what the conference was like. Then get straight into what materials I present in the repository. This includes how to find videos and slides from the conference. Then I discuss the sessions I attened and will focus on three main pieces:
+1. A discussion of the Amazon SageMaker Tool
+2. How project jupyter relates to the open data lab, including some nice efforts by pangeo.
+3. The educational uses of jupyter notebooks
+
 
 ## "I was there for four days and never opened Jupyter, so what does that tell you"
 ## "I was there for four days and looked at tons of source code on GitHub"
@@ -26,6 +32,14 @@
   * The first stable release was announced on February 20, 2018.
 
 
+### Amazon SageMaker
+* [From Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
+  * fully managed machine learning service
+  * integrated Jupyter authoring notebook instance
+  * Training and hosting are billed by minutes of usage
+* Lets you stand up jupyter notebooks on AWS, preloaded with ML tools like TensorFlow, also spark
+* Machine Learning capabilities for training and deployment (includes hyperparameter tuning)
+
 ### The Open Data Lab and Project Jupyter
 * Here at UVA we have established the Open Data Lab
 * Ryan Abernathy (Columbia) [gave a keynote talk](https://www.youtube.com/watch?v=7kDYfUe0Zhw&index=12&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae&t=0s) about a lot of the same principles
@@ -34,13 +48,5 @@
   *  [the past](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/past.png)
   *  [the present](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/present.png)
   *  [the future](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/future.png)
-
-### Amazon SageMaker
-* [From Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
-  * fully managed machine learning service
-  * integrated Jupyter authoring notebook instance
-  * Training and hosting are billed by minutes of usage
-* Lets you stand up jupyter notebooks on AWS, preloaded with ML tools like TensorFlow, also spark
-* Machine Learning capabilities for training and deployment (includes hyperparameter tuning)
 
 ### They had a room dedicated to Education
