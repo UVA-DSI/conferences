@@ -1,5 +1,6 @@
-Title: JupyterCon18 - the project jupyter conference
-Abstract: In this repo I document my experience at the JupyterCon18 conference. This readme file serves as an outline for a talk on that experience. First I will set the tone for what the conference was like. Then get straight into what materials I present in the repository. This includes how to find videos and slides from the conference. Then I discuss the sessions I attened and will focus on three main pieces:
+# JupyterCon18 - the project jupyter conference
+# Abstract
+In this repo I document my experience at the JupyterCon18 conference. This readme file serves as an outline for a talk on that experience. First I will set the tone for what the conference was like. Then get straight into what materials I present in the repository. This includes how to find videos and slides from the conference. Then I discuss the sessions I attened and will focus on three main pieces:
 1. A discussion of the Amazon SageMaker Tool
 2. How project jupyter relates to the open data lab, including some nice efforts by pangeo.
 3. The educational uses of jupyter notebooks
