@@ -1,9 +1,9 @@
 # JupyterCon18 - the project jupyter conference
 # Abstract
 In this repo I document my experience at the JupyterCon18 conference. This readme file serves as an outline for a talk on that experience. First I will set the tone for what the conference was like. Then get straight into what materials I present in the repository. This includes how to find videos and slides from the conference. Then I discuss the sessions I attened and will focus on three main pieces:
-1. A discussion of the Amazon SageMaker Tool
-2. How project jupyter relates to the open data lab, including some nice efforts by pangeo.
-3. The educational uses of jupyter notebooks
+1. What Jupyter Is - a demonstration of the Amazon SageMaker to host notebooks (part of AWS)
+2. How Jupyter impacts research - the open data lab and other efforts like pangeo
+3. How Jupyter impacts education - the educational uses of jupyter notebooks
 
 
 ## "I was there for four days and never opened Jupyter, so what does that tell you"
@@ -33,7 +33,7 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   * The first stable release was announced on February 20, 2018.
 
 
-### Amazon SageMaker
+### Amazon SageMaker - (live demo)
 * [From Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
   * fully managed machine learning service
   * integrated Jupyter authoring notebook instance
@@ -41,7 +41,7 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
 * Lets you stand up jupyter notebooks on AWS, preloaded with ML tools like TensorFlow, also spark
 * Machine Learning capabilities for training and deployment (includes hyperparameter tuning)
 
-### The Open Data Lab and Project Jupyter
+### The Open Data Lab and Project Jupyter - (how to use jupyter for research)
 * Here at UVA we have established the Open Data Lab
 * Ryan Abernathy (Columbia) [gave a keynote talk](https://www.youtube.com/watch?v=7kDYfUe0Zhw&index=12&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae&t=0s) about a lot of the same principles
 * He also [gave a great talk](https://cdn.oreillystatic.com/en/assets/1/event/285/Pangeo_%20Big%20data%20climate%20science%20in%20the%20cloud%20Presentation.pdf) about PANGEO a similar effort for environmental science data.
@@ -50,4 +50,4 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   *  [the present](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/present.png)
   *  [the future](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/future.png)
 
-### They had a room dedicated to Education
+### They had a room dedicated to Education - (how to use jupyter for education)
