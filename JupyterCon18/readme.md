@@ -65,17 +65,15 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   * [small scale hub](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/littlesthub.png)
 
 ## A closing note
-* A curmudgeon gave a talk entitles [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
+* A curmudgeon gave a talk entitled [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
   * take a look it will have you rolling on the floor
-  * Critique
+  * Selected Critique
     * hidden state is hard to penetrate and debug
     * difficult for beginners (not python beginners, programming beginners) - out of order execution is challenging
     * encourage bad habits, also discourage good habits
     * doesn't have ide tools
     * [second favorite slide](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/malcom.png)
     * notebooks HINDER reproducible + extensible science
-    * hard to share in non-notebook form
-    * how do I try/except properly
     * makes it easy to 'teach' poorly
   * He gives the example of how to win him over
     * ide-style autocomplete
