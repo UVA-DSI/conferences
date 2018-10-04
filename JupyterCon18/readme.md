@@ -51,3 +51,17 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   *  [the future](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/future.png)
 
 ### They had a room dedicated to Education - (how to use jupyter for education)
+* What's going on at Berkely?
+  * http://data8.org/
+  * https://data.berkeley.edu/education/courses/data-8
+  * 1,300 students using JupyterHub (the class meets where the symphony plays)
+  * https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/data8.png
+  
+* What's going on in high school?
+  * [my favorite slide all conference](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/noTIcalc.png)
+  * equip classrooms with chromebooks ~$130/unit
+  * 
+  
+* Jupyter Hub
+  * [schematic diagram](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/hubdiagram.png)
+  * [small scale hub](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/littlesthub.png)
