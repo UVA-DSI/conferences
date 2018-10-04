@@ -41,7 +41,7 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
 * Machine Learning capabilities for training and deployment (includes hyperparameter tuning)
 
 ### The Open Data Lab and Project Jupyter - (how to use jupyter for research)
-* Here at UVA we have established the Open Data Lab
+* Here at UVA we have established the [Open Data Lab](https://github.com/UVA-DSI/Open-Data-Lab)
 * Ryan Abernathy (Columbia) [gave a keynote talk](https://www.youtube.com/watch?v=7kDYfUe0Zhw&index=12&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae&t=0s) about a lot of the same principles
 * He also [gave a great talk](https://cdn.oreillystatic.com/en/assets/1/event/285/Pangeo_%20Big%20data%20climate%20science%20in%20the%20cloud%20Presentation.pdf) about PANGEO a similar effort for environmental science data.
 * Therein he outlines the past/present/future of computing in his field and I think it has some relevance to our efforts
