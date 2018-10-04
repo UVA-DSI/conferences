@@ -59,8 +59,7 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   
 * What's going on in high school?
   * [my favorite slide all conference](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/noTIcalc.png)
-  * equip classrooms with chromebooks ~$130/unit
-  * 
+  * equip classrooms with chromebooks ~$130/unit (computing power is on the jupyterhub side)
   
 * Jupyter Hub
   * [schematic diagram](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/hubdiagram.png)
