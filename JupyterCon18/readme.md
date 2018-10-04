@@ -63,3 +63,6 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
 * Jupyter Hub
   * [schematic diagram](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/hubdiagram.png)
   * [small scale hub](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/littlesthub.png)
+
+## A closing note
+* A curmudgeon gave a talk entitles [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
