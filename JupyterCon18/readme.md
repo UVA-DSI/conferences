@@ -67,6 +67,9 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   * [schematic diagram](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/hubdiagram.png)
   * [small scale hub](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/littlesthub.png)
 
+## Jupyter can be used for teaching at scale
+
+
 ## A closing note
 * A curmudgeon gave a talk entitled [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
   * take a look it will have you rolling on the floor
