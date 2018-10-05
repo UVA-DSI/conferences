@@ -8,6 +8,7 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
 
 ## "I was there for four days and never opened Jupyter, so what does that tell you"
 ## "I was there for four days and looked at tons of source code on GitHub"
+## "The keynote speakers had pump up music"
 
 ### Materials
 * [Keynotes on Youtube](https://www.youtube.com/playlist?list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
