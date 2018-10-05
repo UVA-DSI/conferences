@@ -49,6 +49,8 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
   *  [the past](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/past.png)
   *  [the present](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/present.png)
   *  [the future](https://github.com/UVA-DSI/conferences/blob/master/JupyterCon18/images/future.png)
+  
+## Jupyter can be the portal to the cloud research infrastructure
 
 ### They had a room dedicated to Education - (how to use jupyter for education)
 * What's going on at Berkely?
