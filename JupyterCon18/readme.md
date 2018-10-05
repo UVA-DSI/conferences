@@ -71,7 +71,7 @@ In this repo I document my experience at the JupyterCon18 conference. This readm
 
 
 ## A closing note
-* A curmudgeon gave a talk entitled [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
+* A grouch gave a talk entitled [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
   * take a look it will have you rolling on the floor
   * Selected Critique
     * hidden state is hard to penetrate and debug
