@@ -3,6 +3,7 @@ This repository contains records from DSI attendance at conferences
 
 Date|Conference|DSI Attendees|Materials
 -|-|-|-
+2018-11-27|[WikiCite 2018](https://meta.wikimedia.org/wiki/WikiCite_2018)|Daniel Mietchen, Lane Rasberry|[notes](https://github.com/Daniel-Mietchen/events/issues/201)
 2018-11-18|[Dagstuhl Perspectives Workshop 18472 "Implementing FAIR Data Infrastructures"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18472)|Daniel Mietchen, Tim Clark|[notes](https://github.com/Daniel-Mietchen/events/issues/414)
 2018-11-03|[International Data Week](https://github.com/Daniel-Mietchen/events/blob/master/International-Data-Week-2018.md)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/issues/211)
 2018-10-10|[FORCE2018](https://force2018.sched.com/)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018.md)
