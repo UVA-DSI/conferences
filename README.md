@@ -3,6 +3,7 @@ This repository contains records from DSI attendance at conferences
 
 Date|Conference|DSI Attendees|Materials
 -|-|-|-
+2019-03-29|[Women in Data Science Charlottesville 2019](https://datascience.virginia.edu/2019-charlottesville-women-data-science-conference)|Most of the DSI team|[notes](https://github.com/Daniel-Mietchen/events/issues/519)
 2018-11-27|[WikiCite 2018](https://meta.wikimedia.org/wiki/WikiCite_2018)|Daniel Mietchen, Lane Rasberry|[notes](https://github.com/Daniel-Mietchen/events/issues/201)
 2018-11-18|[Dagstuhl Perspectives Workshop 18472 "Implementing FAIR Data Infrastructures"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18472)|Daniel Mietchen, Tim Clark|[notes](https://github.com/Daniel-Mietchen/events/issues/414)
 2018-11-03|[International Data Week](https://github.com/Daniel-Mietchen/events/blob/master/International-Data-Week-2018.md)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/issues/211)
