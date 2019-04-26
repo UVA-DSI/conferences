@@ -3,6 +3,7 @@ This repository contains records from DSI attendance at conferences
 
 Date|Conference|DSI Attendees|Materials
 -|-|-|-
+2019-04-26|[SIEDS 2019](http://bart.sys.virginia.edu/sieds19/)|DSI|[notes](https://github.com/UVA-DSI/conferences/tree/master/SIEDS2019)
 2019-04-23|[GIDI Symposium 2019](https://gidi.virginia.edu/2019-gidi-symposium)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/issues/536)
 2019-04-11|[Tom Tom AMLC](https://tomtomfest.com/machine-learning/)|Most of the DSI team|[notes](https://github.com/UVA-DSI/conferences/tree/master/TOM-TOM-AMLC)
 2019-03-29|[Women in Data Science Charlottesville 2019](https://datascience.virginia.edu/2019-charlottesville-women-data-science-conference)|Most of the DSI team|[notes](https://github.com/Daniel-Mietchen/events/issues/519)
