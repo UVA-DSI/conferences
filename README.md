@@ -1,8 +1,9 @@
 # Events
-This repository contains records from DSI attendance at conferencesand similar events
+This repository contains records from DSI attendance at conferences and similar events
 
 Date|Conference|DSI Attendees|Materials
 -|-|-|-
+2019-10-31-2019-11-04|[iGEM 2019](https://2019.igem.org/Main_Page)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/issues/569)
 2019-06-07|[Mid-Atlantic Synthetic Biology Symposium](https://web.archive.org/web/20190607124202/http://synbio.dev.artsci.virginia.edu/events)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/issues/568)
 2019-05-29-2019-05-31|[UVA Brain Symposium](https://braininstitute.virginia.edu/symposium)|Daniel Mietchen, Lane Rasberry|[notes](https://github.com/Daniel-Mietchen/events/issues/554)
 2019-05-09-2019-05-10|[Kickoff of the Water Futures Initiative of the Environmental Resilience Institute](https://eri.virginia.edu/event/water-futures-initiative-kickoff-event/)|Daniel Mietchen|[notes](https://github.com/Daniel-Mietchen/events/issues/560)
